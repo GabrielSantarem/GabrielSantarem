@@ -1,56 +1,61 @@
 <div align="center">
 
-# Gabriel S &nbsp;·&nbsp; MrTomatePNG 🍅
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFAFF3&height=120&section=header&text=Gabriel%20S&fontSize=42&fontColor=111&fontAlignY=60&animation=fadeIn" />
 
-*Student · Builder of small, sharp tools*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFAFF3&center=true&vCenter=true&width=440&lines=Student+%F0%9F%93%96;Building+small%2C+sharp+tools+%F0%9F%94%A7;Gleam+%26+Rust+enthusiast+%F0%9F%A6%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MrTomatePNG&color=ff69b4&style=flat-square)](https://github.com/MrTomatePNG)
-
-</div>
-
----
-
-### 👾 About me
-
-- 📖 Currently studying and building stuff along the way
-- 🦾 Interested in compilers, type systems, functional programming, and low-level systems
-- 🔧 I like writing tools I actually use
-
----
-
-### 🛠️ Languages & Tools
-
-<div align="left">
-
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logo=gleam&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrTomatePNG&color=FFAFF3&style=flat-square&label=visitors)](https://github.com/MrTomatePNG)
 
 </div>
 
----
+<br>
 
-### 📌 Featured Projects
+## 🍅 About Me
 
-| Repo | Description | Language |
-|------|-------------|----------|
-| [**fist**](https://github.com/MrTomatePNG/fist) | A simple HTTP router built on top of `mist` | ![Gleam](https://img.shields.io/badge/-Gleam-FFAFF3?style=flat-square) |
-| [**zed-sqls-extension**](https://github.com/MrTomatePNG/zed-sqls-extension) | `sqls` language server support for the Zed editor | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square) |
+```gleam
+pub type Gabriel {
+  Gabriel(
+    focus: "compilers, type systems, functional programming",
+    currently_building: "fist — a Gleam HTTP router",
+    learning: Always,
+  )
+}
+```
 
----
+<br>
 
-### 📊 Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTomatePNG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTomatePNG&layout=compact&theme=tokyonight&hide_border=true)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 
 </div>
 
----
+<br>
+
+## 📌 Projects
 
 <div align="center">
-<sub>🍅</sub>
+
+[![fist](https://github-readme-stats.vercel.app/api/pin/?username=MrTomatePNG&repo=fist&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/MrTomatePNG/fist)
+[![zed-sqls-extension](https://github-readme-stats.vercel.app/api/pin/?username=MrTomatePNG&repo=zed-sqls-extension&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/MrTomatePNG/zed-sqls-extension)
+
 </div>
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTomatePNG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTomatePNG&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFAFF3&height=80&section=footer" />
