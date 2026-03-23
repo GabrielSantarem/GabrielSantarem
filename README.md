@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFAFF3&height=120&section=header&text=Gabriel%20S&fontSize=42&fontColor=111&fontAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CE422B&height=120&section=header&text=Gabriel%20S&fontSize=42&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFAFF3&center=true&vCenter=true&width=440&lines=Student+%F0%9F%93%96;Building+small%2C+sharp+tools+%F0%9F%94%A7;Gleam+%26+Rust+enthusiast+%F0%9F%A6%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CE422B&center=true&vCenter=true&width=440&lines=Student+%F0%9F%93%96;Building+small%2C+sharp+tools+%F0%9F%94%A7;Gleam+%26+Rust+enthusiast+%F0%9F%A6%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MrTomatePNG&color=FFAFF3&style=flat-square&label=visitors)](https://github.com/MrTomatePNG)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrTomatePNG&color=CE422B&style=flat-square&label=visitors)](https://github.com/MrTomatePNG)
 
 </div>
 
@@ -69,4 +69,4 @@ pub type Gabriel {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFAFF3&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CE422B&height=80&section=footer" />
