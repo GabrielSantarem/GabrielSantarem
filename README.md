@@ -21,7 +21,7 @@
 
 Profissional com formação superior em **Análise e Desenvolvimento de Sistemas** e graduando em **Ciência da Computação** pela Universidade Estácio de Sá. Atuação direcionada ao desenvolvimento backend, engenharia de software e análise de processos corporativos.
 
-Foco na concepção e implementação de sistemas orientados a regras de negócio complexas, conformidade fiscal brasileira (emissão, eventos e conciliação de NFC-e junto à SEFAZ) e integração direta com periféricos de automação comercial. Prática consolidada no desenvolvimento com linguagens compiladas e tipadas (C#/.NET, Rust, Go), aplicação de arquitetura limpa (Clean Architecture), padrões de concorrência e implementação rigorosa de testes automatizados unitários e de integração.
+Foco na concepção e implementação de sistemas orientados a regras de negócio, conformidade fiscal brasileira (emissão, eventos e conciliação de NFC-e junto à SEFAZ) e integração com periféricos de automação comercial. Prática consolidada com linguagens compiladas e tipadas (C#/.NET, Rust, Go), estruturação de código limpo, persistência de dados e desenvolvimento orientado a testes automatizados.
 
 ---
 
@@ -42,7 +42,7 @@ Foco na concepção e implementação de sistemas orientados a regras de negóci
 * **Automação Comercial:** Comunicação e protocolo de hardware de varejo, decodificação de etiquetas de balança comercial com peso e preço (EAN-13), comandos térmicos ESC/POS e disparo de gavetas de numerário.
 * **Políticas de Crédito:** Controle de contas a receber (crediário), algoritmos oficiais de validação de CPF/CNPJ e regras de bloqueio por inadimplência.
 
-### Arquitetura de Software e Desenvolvimento
+### Práticas de Desenvolvimento e Arquitetura
 
 <div align="center">
 
@@ -58,9 +58,10 @@ Foco na concepção e implementação de sistemas orientados a regras de negóci
 
 </div>
 
-* **Paradigmas e Padrões:** Clean Architecture, Domain-Driven Design (DDD simplificado), Inversão de Controle e Injeção de Dependências (IoC/DI), MVVM, State Machines assíncronas.
-* **Bancos de Dados:** SQLite (operações transacionais atômicas e snapshots online via VACUUM INTO), PostgreSQL, modelagem relacional e mapeamento objeto-relacional com Entity Framework Core e Prisma.
-* **Garantia da Qualidade:** Testes unitários e de integração (xUnit), cobertura sistemática de casos de borda e emulação de periféricos para esteiras de integração contínua sem dependência física.
+* **Estruturação de Código:** Organização em camadas lógicas (separação clara entre interface, regras de negócio e acesso a dados), aplicação prática dos princípios SOLID e injeção de dependências nativa do ecossistema .NET.
+* **Persistência de Dados:** Modelagem relacional, criação de esquemas, consultas SQL e utilização de ORMs (Entity Framework Core e Prisma) para controle transacional e migrações.
+* **Qualidade de Software:** Escrita de testes automatizados com xUnit (testes unitários para validação de regras de negócio, cálculos tributários e integridade de operações).
+* **Controle de Versão e Ferramentas:** Utilização contínua de Git (branches, commits semânticos e resolução de conflitos), ambiente Linux e ferramentas de linha de comando.
 
 ---
 
