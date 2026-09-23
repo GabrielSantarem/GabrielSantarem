@@ -1,115 +1,83 @@
-<div align="center">
+# Gabriel Santarém
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CE422B&height=130&section=header&text=Gabriel%20Santarem&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CE422B&center=true&vCenter=true&width=500&lines=Analista+e+Desenvolvedor+de+Sistemas+%F0%9F%92%BB;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Foco+em+Backend%2C+Arquitetura+%26+Regras+de+Neg%C3%B3cio+%F0%9F%9A%80;Em+busca+de+Est%C3%A1gio+%2F+Dev+J%C3%BAnior+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Manaus%2C%20AM%20--%20Brasil-informational?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Disponibilidade-Est%C3%A1gio%20%7C%20J%C3%BAnior%20(Presencial%20%2F%20Remoto)-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-</p>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=GabrielSantarem&color=CE422B&style=flat-square&label=visitors)](https://github.com/GabrielSantarem)
-
-</div>
+**Analista e Desenvolvedor de Sistemas**  
+Manaus, AM — Brasil | Disponível para Estágio e Desenvolvedor Júnior (Presencial / Remoto)
 
 ---
 
-## 🎯 Perfil Profissional
+## Perfil Profissional
 
-Formado como **Tecnólogo em Análise e Desenvolvimento de Sistemas** e atualmente cursando o Bacharelado em **Ciência da Computação** pela Universidade Estácio de Sá (Manaus/AM). 
+Profissional com formação superior em **Análise e Desenvolvimento de Sistemas** e graduando em **Ciência da Computação** pela Universidade Estácio de Sá. Atuação direcionada ao desenvolvimento backend, engenharia de software e análise de processos corporativos.
 
-Com sólida base conceitual de engenharia de software e análise de processos, meu foco é no desenvolvimento backend, arquitetura de software e sistemas operacionais de missão crítica. Mesmo buscando minha primeira oportunidade formal (Estágio / Júnior), desenvolvo projetos de alta complexidade com rigor técnico real: desde **regras fiscais e tributárias brasileiras (NFC-e / SEFAZ)** e **integração de hardware comercial**, até **ferramentas de terminal em Rust** com automação via `systemd` e rotinas assíncronas.
-
-> 💡 **Objetivo:** Atuar como **Estagiário** ou **Desenvolvedor Júnior**, aplicando minha disciplina em análise de requisitos, qualidade de código com testes automatizados e evolução contínua da stack técnica.
+Foco na concepção e implementação de sistemas orientados a regras de negócio complexas, conformidade fiscal brasileira (emissão, eventos e conciliação de NFC-e junto à SEFAZ) e integração direta com periféricos de automação comercial. Prática consolidada no desenvolvimento com linguagens compiladas e tipadas (C#/.NET, Rust, Go), aplicação de arquitetura limpa (Clean Architecture), padrões de concorrência e implementação rigorosa de testes automatizados unitários e de integração.
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 * **Bacharelado em Ciência da Computação**  
-  *Universidade Estácio de Sá — Manaus/AM* | *Em andamento*
+  *Universidade Estácio de Sá — Manaus/AM* (Em andamento)
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *Universidade Estácio de Sá — Manaus/AM* | *Concluído*
+  *Universidade Estácio de Sá — Manaus/AM* (Concluído)
 
 ---
 
-## 🧩 Competências de Análise & Engenharia
+## Competências Técnicas
 
-| Área | Competências e Aplicações Práticas |
-| :--- | :--- |
-| **Análise de Requisitos & Negócio** | Mapeamento de fluxos de varejo, regras fiscais (NFC-e 4.00, eventos SEFAZ 110111, XML contábil), controle de limite/inadimplência e políticas de retenção de dados. |
-| **Arquitetura & Design** | Clean Architecture, separação de responsabilidades (IoC/DI), MVVM, State Machines assíncronas e padrões de resiliência. |
-| **Automação Comercial & Hardware** | Integração direta com balanças (parser EAN-13 pesável), impressoras térmicas (protocolo ESC/POS), acionamento de gavetas RJ12 e design de etiquetas com QuestPDF. |
-| **Bancos de Dados & Dados** | SQLite transacional atômico (`VACUUM INTO`), PostgreSQL, Entity Framework Core 9 e modelagem relacional. |
-| **Garantia de Qualidade & Testes** | Suíte de testes unitários e de integração (240+ testes sem regressão), emulação de hardware sem dependência física e CI/CD. |
+### Análise de Sistemas e Regras de Negócio
+* **Engenharia de Requisitos:** Mapeamento de fluxos operacionais de varejo, análise de processos de caixa (PDV), conciliação financeira e controle de turnos.
+* **Legislação Fiscal e Tributária:** Implementação de mensageria para NFC-e 4.00, eventos de cancelamento SEFAZ (Evento 110111), tratamento de contingência offline e fechamento contábil mensal em formato digital.
+* **Automação Comercial:** Comunicação e protocolo de hardware de varejo, decodificação de etiquetas de balança comercial com peso e preço (EAN-13), comandos térmicos ESC/POS e disparo de gavetas de numerário.
+* **Políticas de Crédito:** Controle de contas a receber (crediário), algoritmos oficiais de validação de CPF/CNPJ e regras de bloqueio por inadimplência.
 
----
-
-## 🛠️ Stack Tecnológica
-
-**Linguagens de Programação**
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
-
-</div>
-
-**Frameworks, Ferramentas & Ecossistema**
-<div align="center">
-
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8E44AD?style=for-the-badge&logo=avalonia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
+### Arquitetura de Software e Desenvolvimento
+* **Linguagens:** C# (.NET 10), Rust, Go, TypeScript, Python.
+* **Paradigmas e Padrões:** Clean Architecture, Domain-Driven Design (DDD simplificado), Inversão de Controle e Injeção de Dependências (IoC/DI), MVVM, State Machines assíncronas.
+* **Bancos de Dados:** SQLite (operações transacionais atômicas e snapshots online via VACUUM INTO), PostgreSQL, modelagem relacional e mapeamento objeto-relacional com Entity Framework Core e Prisma.
+* **Garantia da Qualidade:** Testes unitários e de integração (xUnit), cobertura sistemática de casos de borda e emulação de periféricos para esteiras de integração contínua sem dependência física.
 
 ---
 
-## 📌 Projetos em Destaque (Portfólio Prático)
+## Projetos em Destaque
 
-### 🏪 [ComercialPro-ERP](https://github.com/GabrielSantarem/ComercialPro-ERP)
-> **ERP & PDV Comercial de Alta Performance para Varejo (.NET 10 + Avalonia UI + SQLite)**
-* **Conformidade Fiscal SEFAZ:** Integração oficial com motor NFC-e 4.00 (Zeus Automação), contingência offline, cancelamento homologado e exportação de pacote fiscal mensal `.zip`.
-* **Ergonomia Zero Mouse:** Caixa 100% operável via teclado com captura de atalhos e autofoco para checkout ultra-rápido.
-* **Hardware Sem Atrito:** Decodificação de etiquetas de balança (EAN-13 peso/preço), disparo de gaveta RJ12 via ESC/POS e geração de etiquetas de gôndola via QuestPDF.
-* **Qualidade Industrial:** Cobertura de **243 testes unitários** automatizados com 100% de aprovação e zero dependência de hardware físico.
+### [ComercialPro-ERP](https://github.com/GabrielSantarem/ComercialPro-ERP)
+**Plataforma Comercial de ERP e Frente de Caixa (PDV) de Alta Performance**  
+*Tecnologias: C# 14, .NET 10, Avalonia UI, SQLite 3, EF Core 9, Zeus Fiscal, QuestPDF, xUnit*
 
----
-
-### 🛡️ [rsborg](https://github.com/GabrielSantarem/rsborg)
-> **Interface TUI Moderna em Rust (Ratatui) para BorgBackup**
-* **Mecanismo Assíncrono e Não Bloqueante:** Operações pesadas de backup, verificação de integridade e comparação de versões executadas em background threads.
-* **Navegação Inteligente:** Seletor de diretórios em árvore com herança de inclusão/exclusão e suporte a i18n em tempo real (PT/EN).
-* **Automação de Sistema Linux:** Gerador e instalador integrado de serviços e timers `systemd` e sintaxe segura para `crontab`.
+* **Módulo Fiscal SEFAZ:** Integração com motor de emissão de NFC-e 4.00, contingência offline automática, cancelamento de documentos regulamentares e exportação estruturada do pacote fiscal mensal para contabilidade.
+* **Frente de Caixa (PDV):** Interface desenvolvida sob o paradigma *Zero Mouse*, permitindo a operação integral do checkout via atalhos de teclado com foco inteligente em caixas de diálogo.
+* **Integração de Hardware:** Parser nativo para etiquetas de balança de retaguarda com identificação de tara, peso fracionado e precificação dinâmica; acionamento de gaveta via interface serial/RJ12.
+* **Confiabilidade e Auditoria:** Cobertura de 243 testes automatizados (unitários e de integração) abrangendo regras tributárias, integridade do caixa, backup transacional e resiliência de dados.
 
 ---
 
-### ⚡ [fist](https://github.com/GabrielSantarem/fist) & [rinha_backend_2023](https://github.com/GabrielSantarem/rinha_backend_2023)
-> **Explorações em Arquitetura, Linguagens Funcionais e Alta Concorrência**
-* **fist:** Roteador HTTP construído em Gleam explorando segurança de tipos e programação funcional.
-* **rinha_backend_2023:** API de alta concorrência em Go com foco em throughput, controle de carga e concorrência limpa.
+### [rsborg](https://github.com/GabrielSantarem/rsborg)
+**Interface de Terminal (TUI) para Gerenciamento de Backups Corporativos**  
+*Tecnologias: Rust (Edição 2024), Ratatui, BorgBackup, Linux systemd, POSIX Shell*
+
+* **Processamento Assíncrono:** Execução concorrente de tarefas críticas de infraestrutura (criação de arquivos, verificação de integridade, deduplicação e auditoria) sem bloqueio da interface.
+* **Navegação Hierárquica:** Mecanismo de árvore de arquivos com regras de herança de seleção e suporte nativo à internacionalização (Português/Inglês).
+* **Automação de Infraestrutura:** Módulo integrado para geração e instalação de unidades de serviço e temporizadores no `systemd` do Linux e comandos seguros para `cron`.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### [rinha_backend_2023](https://github.com/GabrielSantarem/rinha_backend_2023)
+**Serviço Backend de Alta Concorrência**  
+*Tecnologias: Go, HTTP Router, Bancos de Dados Relacionais*
 
-<div align="center">
+* Implementação de API orientada a processamento com throughput elevado e controle rigoroso de recursos computacionais, memória e conexões simultâneas.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSantarem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantarem&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+---
 
-</div>
+### [fist](https://github.com/GabrielSantarem/fist)
+**Roteador HTTP Funcional**  
+*Tecnologias: Gleam, BEAM/OTP*
 
-<br>
+* Biblioteca de roteamento HTTP baseada em segurança de tipos, imutabilidade e concorrência orientada a atores na plataforma Erlang/OTP.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CE422B&height=80&section=footer" />
+---
+
+## Contato e Repositórios
+
+* **GitHub:** [github.com/GabrielSantarem](https://github.com/GabrielSantarem)
+* **Codeberg:** [codeberg.org/MrTomate](https://codeberg.org/MrTomate)
