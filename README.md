@@ -1,7 +1,19 @@
-# Gabriel Santarém
+<div align="center">
 
-**Analista e Desenvolvedor de Sistemas**  
-Manaus, AM — Brasil | Disponível para Estágio e Desenvolvedor Júnior (Presencial / Remoto)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=120&section=header&text=Gabriel%20Santar%C3%A9m&fontSize=38&fontColor=ffffff&fontAlignY=55" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&lines=Analista+e+Desenvolvedor+de+Sistemas;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Tecn%C3%B3logo+em+ADS;Foco+em+Backend%2C+Arquitetura+e+Regras+de+Neg%C3%B3cio;Dispon%C3%ADvel+para+Est%C3%A1gio+e+Desenvolvedor+J%C3%BAnior)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Manaus%2C%20AM--Brasil-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Disponibilidade-Est%C3%A1gio%20%7C%20J%C3%BAnior-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modalidade-Presencial%20%7C%20Remoto-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Contrata%C3%A7%C3%A3o-166534?style=flat-square" />
+</p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=GabrielSantarem&color=334155&style=flat-square&label=visitas)](https://github.com/GabrielSantarem)
+
+</div>
 
 ---
 
@@ -31,7 +43,21 @@ Foco na concepção e implementação de sistemas orientados a regras de negóci
 * **Políticas de Crédito:** Controle de contas a receber (crediário), algoritmos oficiais de validação de CPF/CNPJ e regras de bloqueio por inadimplência.
 
 ### Arquitetura de Software e Desenvolvimento
-* **Linguagens:** C# (.NET 10), Rust, Go, TypeScript, Python.
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
 * **Paradigmas e Padrões:** Clean Architecture, Domain-Driven Design (DDD simplificado), Inversão de Controle e Injeção de Dependências (IoC/DI), MVVM, State Machines assíncronas.
 * **Bancos de Dados:** SQLite (operações transacionais atômicas e snapshots online via VACUUM INTO), PostgreSQL, modelagem relacional e mapeamento objeto-relacional com Entity Framework Core e Prisma.
 * **Garantia da Qualidade:** Testes unitários e de integração (xUnit), cobertura sistemática de casos de borda e emulação de periféricos para esteiras de integração contínua sem dependência física.
@@ -77,7 +103,17 @@ Foco na concepção e implementação de sistemas orientados a regras de negóci
 
 ---
 
-## Contato e Repositórios
+## Métricas de Atividade
 
-* **GitHub:** [github.com/GabrielSantarem](https://github.com/GabrielSantarem)
-* **Codeberg:** [codeberg.org/MrTomate](https://codeberg.org/MrTomate)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSantarem&show_icons=true&theme=dark&hide_border=true&border_radius=8&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantarem&layout=compact&theme=dark&hide_border=true&border_radius=8)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=70&section=footer" />
+</div>
